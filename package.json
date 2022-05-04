@@ -1,23 +1,22 @@
 {
-  "name": "@obewds/vite-vue-ts-compo-pkg-starter",
-  "description": "The @obewds/vite-vue-ts-compo-pkg-starter modular design system component for Vue.js",
+  "name": "@obewds/tw-bg-palette-pastel",
+  "description": "The @obewds/tw-bg-palette-pastel modular design system component for Vue.js",
   "version": "0.1.0",
   "author": "@oberocks",
-  "homepage": "https://obewds.github.io/vite-vue-ts-compo-pkg-starter/",
+  "homepage": "https://obewds.github.io/tw-bg-palette-pastel/",
   "license": "MIT",
-  "main": "./dist/vite-vue-ts-compo-pkg-starter.umd.js",
-  "module": "./dist/vite-vue-ts-compo-pkg-starter.es.js",
-  "browser": "./dist/vite-vue-ts-compo-pkg-starter.iife.js",
+  "main": "./dist/tw-bg-palette-pastel.umd.js",
+  "module": "./dist/tw-bg-palette-pastel.es.js",
+  "browser": "./dist/tw-bg-palette-pastel.iife.js",
   "exports": {
     ".": {
-      "import": "./dist/vite-vue-ts-compo-pkg-starter.es.js",
-      "require": "./dist/vite-vue-ts-compo-pkg-starter.umd.js"
-    },
-    "./src": "./src/components/ViteVueTsCompoPkgStarter.vue"
+      "import": "./dist/tw-bg-palette-pastel.es.js",
+      "require": "./dist/tw-bg-palette-pastel.umd.js"
+    }
   },
   "files": [
     "dist",
-    "src/components",
+    "src/data",
     "tests"
   ],
   "types": "./dist/types/index.d.ts",
@@ -70,10 +69,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/obewds/vite-vue-ts-compo-pkg-starter.git"
+    "url": "git+https://github.com/obewds/tw-bg-palette-pastel.git"
   },
   "bugs": {
-    "url": "https://github.com/obewds/vite-vue-ts-compo-pkg-starter/issues"
+    "url": "https://github.com/obewds/tw-bg-palette-pastel/issues"
   },
   "keywords": [
     "vue",

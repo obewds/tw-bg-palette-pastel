@@ -12,12 +12,11 @@
     ".": {
       "import": "./dist/tw-bg-palette-pastel.es.js",
       "require": "./dist/tw-bg-palette-pastel.umd.js"
-    },
-    "./src": "./src/components/TwBgPalettePastel.vue"
+    }
   },
   "files": [
     "dist",
-    "src/components",
+    "src/data",
     "tests"
   ],
   "types": "./dist/types/index.d.ts",

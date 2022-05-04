@@ -3,7 +3,7 @@
 module.exports = {
     base: '/tw-bg-palette-pastel/',
     title: '@obewds/tw-bg-palette-pastel',
-    description: 'A documentation site for the TwBgPalettePastel component',
+    description: 'A documentation site for the twBgPalettePastel component',
     markdown: {
       lineNumbers: true,
     },

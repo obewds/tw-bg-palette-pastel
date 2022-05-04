@@ -26,7 +26,7 @@ export default defineConfig({
     outDir: './dist',
     lib: {
       entry: resolve(__dirname, 'src/index.ts'),
-      name: 'TwBgPalettePastel',
+      name: 'twBgPalettePastel',
       formats: ['es','cjs','umd','iife'],
       fileName: (format: string) => `tw-bg-palette-pastel.${format}.js`,
     },

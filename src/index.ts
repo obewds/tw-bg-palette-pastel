@@ -1,1 +1,1 @@
-export { default as TwBgPalettePastel } from './components/TwBgPalettePastel.vue'
+export { default as twBgPalettePastel } from './data/tw-bg-palette-pastel'

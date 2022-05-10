@@ -13,6 +13,8 @@ The @obewds/tw-bg-palette-pastel modular design system component for Vue.js
 
 Check out the [official docs](https://obewds.github.io/tw-bg-palette-pastel/) for this component for more details!
 
+Or check out the [CHANGELOG](https://github.com/obewds/tw-bg-palette-pastel/blob/main/CHANGELOG.md) for the code base!
+
 <br>
 
 
